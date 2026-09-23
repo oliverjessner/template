@@ -2,6 +2,10 @@
 
 personal template repo
 
+## Changelog
+
+You can find the changelog [here](docs/changelog.md)
+
 ## CLI
 
 Ships with a built-in CLI. See the CLI [documentation](/docs/CLI.md) for resources, actions, options, and examples.
